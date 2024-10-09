@@ -10,3 +10,12 @@
 Respuesta
 
 ### 2. Armar el diagrama de entidad relación. 
+<img src="imágenes/helisulbaranBD02.png" alt="ejemplo_diagrama-ER" style="width:500px;"/>
+
+### 3. Modelo relacional base de datos.
+![Modelo relacional de la base de datos](imágenes/modelo_relacional.png)
+
+### Ejemplo de query
+```
+query1
+```
